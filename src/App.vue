@@ -4,6 +4,7 @@ import LandingSection from './components/LandingSection.vue';
 import BelowLandingSection from './components/BelowLandingSection.vue'; 
 import IntroSection from './components/BoardIntroSection.vue';
 import UpcomingMeetings from './components/UpcomingMeetings.vue';
+import AtAGlance from './components/AtAGlance.vue';
 </script>
 
 <template>
@@ -13,6 +14,7 @@ import UpcomingMeetings from './components/UpcomingMeetings.vue';
     <BelowLandingSection />
     <IntroSection />
     <UpcomingMeetings />
+    <AtAGlance />
   </div>
 </template>
 
