@@ -4,4 +4,14 @@
 
 body {
   overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+}
+
+@layer utilities {
+
+  /* font weights */
+  h1, h2, h4 {
+    font-weight: 500;
+    line-height: 1em;
+  }
 }

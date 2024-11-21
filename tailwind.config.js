@@ -11,6 +11,9 @@ export default {
         'fourth-blue': '#f3f4f6',
         'primary-beige': '#EEE5CB'
       },
+      fontFamily: {
+        'montserrat': ['Montserrat', 'sans-serif'],
+      },
     },
   },
   plugins: [],

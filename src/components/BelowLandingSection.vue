@@ -1,5 +1,5 @@
 <template>
-    <section class="xl:h-[50vh] w-[100vw] flex items-center justify-center bg-secondary-blue">
+    <section class="xl:h-[50vh] w-[100vw] flex items-center justify-center bg-gradient-to-b from-secondary-blue to-primary-blue">
         <div class="flex flex-col gap-y-6 w-[65%] text-left text-white">
             <h1 class="font-bold xl:mt-4 mt-20 text-3xl">Welcome to the Gonzaga University Real Estate Club!</h1>
             <p>

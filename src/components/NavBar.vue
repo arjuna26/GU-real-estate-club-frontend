@@ -1,8 +1,8 @@
 <template>
     <nav class="flex justify-between px-20 py-4 items-center bg-white">
         <div class="flex flex-row items-center gap-2"> 
-            <img src="/mainLogo.jpg" alt="" class="w-16">
-            <h1 class="xl:text-xl text-primary-blue font-bold">Gonzaga Real Estate Club</h1>
+            <img src="/mainLogo.jpg" alt="" class="w-24">
+            <h1 class="xl:text-xl text-primary-blue font-bold tracking-tighter">Gonzaga Real Estate Club</h1>
         </div>
         <div class="flex items-center">
             <div class="xl:flex items-center hidden">
